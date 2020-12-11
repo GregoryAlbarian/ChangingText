@@ -1,7 +1,7 @@
 #!/bin/bash
 mkdir project
 cd project
-mkdir {1..10}
+mkdir {1..500}
 ls . > ../contents.txt
 
 
