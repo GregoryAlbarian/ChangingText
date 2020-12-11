@@ -3,7 +3,7 @@
 count=1
 
 cd ./project
-while [ $count -le 10 ]; do
+while [ $count -le 500 ]; do
   cd ./$count
   last_digit=$[ $count % 10 ]
 
