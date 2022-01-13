@@ -1,6 +1,6 @@
 # ChangingText
 
-This contains two Bash Scripts that was made originally for my Computing for Scientists class.  
+This contains two Bash Scripts that was made originally for my Computing for my Scientists class.  
 I wanted to share this program to show my understanding of Linux Environments. This repository  
 contains two files part1.sh and part2.sh. In part1.sh the Bash scripts. The purpose of part1.sh   
 is to create 500 directories all with a single text file that is the same text file. The directories  
