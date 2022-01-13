@@ -13,6 +13,6 @@ Download the code to a directory.
 Use cd to get into that directory.  
 Run part1 by doing  
   
->"./part1.sh " 
-Run part2 by doing  
->"./part2.sh"
+>./part1.sh  
+>---Run part2 by doing  
+>./part2.sh
