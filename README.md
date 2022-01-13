@@ -12,6 +12,6 @@ remember to run part1.sh before running part2.sh
 Download the code to a directory.  
 Use cd to get into that directory.  
 Run part1 by doing   
->>./part1sh  
+>./part1sh 
 Run part2 by doing  
->>./part2.sh
+>./part2.sh
