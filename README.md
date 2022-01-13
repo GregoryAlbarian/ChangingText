@@ -11,7 +11,8 @@ already has from part1.sh. The text gets changed based around the last digit in 
 remember to run part1.sh before running part2.sh  
 Download the code to a directory.  
 Use cd to get into that directory.  
-Run part1 by doing   
->./part1.sh  
+Run part1 by doing  
+  
+>"./part1.sh " 
 Run part2 by doing  
->./part2.sh
+>"./part2.sh"
